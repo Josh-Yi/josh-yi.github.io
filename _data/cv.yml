@@ -85,6 +85,42 @@
         - Outstanding Social Activities Report, NCEPU
 
       
+- title: Software/Coding
+  type: nested_list
+  contents:
+    - title: Programming
+      items: 
+        - Python (Main) | Matlab | C | Bash | HTML | CSS | Latex | Verilog | MIPS Assembly
+
+    - title: Machine Learning
+      items:
+        - PyTorch (Main) | TensorFlow (Keras) | scikit-learn
+
+    - title: Data Science
+      items:
+        - Numpy | Pandas | Matplotlib | SQL
+
+    - title: Circuit Simulation/Layout
+      items:
+        - Cadence | Simulink | LTspice | Multisim 
+    - title: Web
+      items:
+        - playwright | bs4 | streamlit
+
+    - title: Circuit Simulation/Layout
+      items:
+        - Cadence | Simulink | LTspice | Multisim 
+    - title: Design
+      items:
+        - Fusion 360 | After Effects | SolidWorks | Photoshop | Premiere | Stable Diffusion
+
+    - title: Operating Systems
+      items:
+        - Linux (Arch & Debian), macOS, Windows
+    - title: AI Tools
+      items:
+        - ChatGPTs | Diffusion models | Transformers
+
 - title: Academic Interests
   type: nested_list
   contents:
@@ -97,7 +133,9 @@
         - Robotics + RL
 
 
+
 # - title: Other Interests
 #   type: list
 #   contents:
 #     - <u>Hobbies:</u> Reading, Hiking, Travelling
+
